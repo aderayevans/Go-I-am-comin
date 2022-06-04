@@ -1,3 +1,3 @@
-module Go-I-am-comin
+module github.com/aderayevans/Go-I-am-comin
 
 go 1.18

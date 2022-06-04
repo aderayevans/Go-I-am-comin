@@ -3,7 +3,8 @@ package main
 import (
 	"fmt"
 
-	greetings "Go-I-am-comin/packages"
+	greetings "github.com/aderayevans/Go-I-am-comin"
+	// greetings "Go-I-am-comin/packages"
 )
 
 func main() {
