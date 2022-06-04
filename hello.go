@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	greetings "github.com/aderayevans/Go-I-am-comin"
+	greetings "github.com/aderayevans/Go-I-am-comin/packages"
 	// greetings "Go-I-am-comin/packages"
 )
 
